@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wgCfgEcho", "wgCfgEcho\wgCfgEcho.csproj", "{FF65251B-77FE-4FA3-8D04-2AD53A8F4FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF65251B-77FE-4FA3-8D04-2AD53A8F4FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF65251B-77FE-4FA3-8D04-2AD53A8F4FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF65251B-77FE-4FA3-8D04-2AD53A8F4FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF65251B-77FE-4FA3-8D04-2AD53A8F4FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42132B82-4F9C-4F35-97AF-CE21D30BC976}
+	EndGlobalSection
+EndGlobal
